@@ -7,6 +7,7 @@ https://docs.google.com/spreadsheets/d/1VyBirFeeTr_odnnuWCcpvPA54Ay7-HC2AkaO0AI5
 # how to run cypress
 1. ****Installation****
 First, ensure you have Node.js installed, as Cypress requires it.
+
 npm install cypress --save-dev  to install cypress
 
 2. ****Opening Cypress****
