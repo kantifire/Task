@@ -17,3 +17,7 @@ npm install cypress --save-dev  to install cypress
    Configure the e2e and start your first automation
 
 thank you................
+
+
+#API Automation Postman Link
+https://app.getpostman.com/join-team?invite_code=d81dc84567f811836486fb6a29064408&target_code=63696bc570ce87162f58c79c9a352866
