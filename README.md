@@ -16,7 +16,7 @@ npm install cypress --save-dev  to install cypress
 3. ****Configuration****
    Configure the e2e and start your first automation
 
-    Download the code the to cypress e2e folder
+
 
 thank you................
 
