@@ -19,7 +19,7 @@ describe('Itemnumber adv search', () => {
         cy.wait(5000);
     });
    
-    it.skip('Should display any result with valid item number', () => {
+    it('Should display any result with valid item number', () => {
         // Visit the eBay advanced search page
         cy.visit("https://www.ebay.com/sch/ebayadvsearch");
          
